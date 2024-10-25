@@ -12,4 +12,5 @@ linerequested
 line from github
 line from home
 new line from home
-upstream
+delete from origin
+on feature
